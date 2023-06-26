@@ -1,0 +1,6 @@
+fastapi[all]
+langchain==0.0.205
+openai
+chromadb
+Gunicorn
+nest_asyncio
