@@ -2,7 +2,7 @@
 
 This project aims to create a question-answering chatbot using the langchain package. The chatbot is deployed as a FastAPI application and hosted on Render.
 
-![example](https://github.com/bowang-lab/LabChat/assets/13124818/68d84267-434e-430c-ab83-1daf845e9d73)
+![example](https://github.com/bowang-lab/LabChat/assets/13124818/ae7087ba-cb81-40e2-ab96-b607ba2a0249)
 
 ## FastAPI Application
 
